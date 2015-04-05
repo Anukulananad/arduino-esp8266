@@ -108,8 +108,11 @@ tools.esptool.bootloader.pattern="{cmd.path}" "-C{config.path}" {bootloader.verb
 # ------------------------------
 
 tools.esptool.cmd=esptool
-tools.esptool.cmd.windows=esptool.exe
-tools.esptool.path={runtime.hardware.path}/tools/
+#tools.esptool.cmd.windows=esptool.exe
+tools.esptool.path.linux={runtime.hardware.path}/tools/linux/
+tools.esptool.path.windows={runtime.hardware.path}/tools/windows/
+tools.esptool.path.linux64={runtime.hardware.path}/tools/linux64/
+tools.esptool.path.macosx={runtime.hardware.path}/tools/macosx/
 
 tools.esptool.program.params.verbose=-vv
 tools.esptool.program.params.quiet= 
