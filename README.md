@@ -20,7 +20,7 @@ I will keep this repo going for a while, but in the longer term it will definate
 
 
 
-## ESP8266 support files for Arduino 1.6.x 
+### ESP8266 support files for Arduino 1.6.x 
 
 This repo is based on github/esp8266/arduino for code source files and also www.arduinesp.com for toolchain
 
