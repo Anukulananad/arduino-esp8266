@@ -1,4 +1,26 @@
-# ESP8266 support files for Arduino 1.6.x 
+# UPDATE - Please read
+
+Things are moving incredibly fast with both the core Arduino IDE and also the esp8266 dev team https://github.com/esp8266/arduino 
+
+I'm struggling to keep my repo up to date with all the changes, so I suggest that all users of this repo, now look at either
+
+This repo instead
+
+https://github.com/sandeepmistry/esp8266-Arduino
+
+or look at this issue thread, about installation via the IDE 1.6.3 boards manager
+
+https://github.com/esp8266/Arduino/issues/57
+
+
+I will keep this repo going for a while, but in the longer term it will definately be superseded by the main ESP8266 dev team's efforts at https://github.com/esp8266/arduino
+
+
+
+
+
+
+## ESP8266 support files for Arduino 1.6.x 
 
 This repo is based on github/esp8266/arduino for code source files and also www.arduinesp.com for toolchain
 
